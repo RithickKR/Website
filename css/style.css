@@ -1,4 +1,4 @@
-/*-------------------- DEFAULT STYLES --------------------*/
+﻿/*-------------------- DEFAULT STYLES --------------------*/
 html {
 	-webkit-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
@@ -1255,7 +1255,7 @@ header.header-scroll .logo-strong {
 .s-info-bg {
 	padding: 166px 0 180px;
 	min-height: 776px;
-	background-image: url(../img/bg-cut-2.jpg);
+	background-image: url(https://cdn.bradsaerospace.com/images/bg-cut-2.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1697,7 +1697,7 @@ header.header-scroll .logo-strong {
 /*-------------------- S-OPPORTUNITIES --------------------*/
 .s-opportunities {
 	min-height: 902px;
-	background-image: url(../img/bg-cut-3.jpg);
+	background-image: url(https://cdn.bradsaerospace.com/images/bg-cut-3.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
